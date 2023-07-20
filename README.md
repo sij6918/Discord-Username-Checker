@@ -31,6 +31,6 @@ python username_checker.py
 For linux
 
 git clone https://github.com/clientlessx/Discord-Username-Checker.git
-pip3 install -r requirments.txt
-python3 username_checker.py
+pip install -r requirments.txt
+python username_checker.py
 Support
