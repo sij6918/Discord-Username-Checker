@@ -17,9 +17,3 @@ For Windows
 
 pip install -r requirments.txt
 python dsv.py
-For linux
-
-git clone https://github.com/clientlessx/Discord-Username-Checker.git
-pip install -r requirments.txt
-python dsv.py
-Support
