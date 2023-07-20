@@ -1,7 +1,6 @@
 Discord Username Checker
 I have reverted the update for the checker, and made some adjustments. It will now go back to needing the Change Name Update option available for it to work!
 
-image
 
 Changelog
 Added Proxy Support
@@ -16,4 +15,5 @@ You need to make sure you put your token in or you will not have access to check
 For Windows
 
 pip install -r requirments.txt
+
 python dsv.py
